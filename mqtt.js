@@ -1,4 +1,4 @@
-```
+
 const  mqtt = require('mqtt');
 
 const {
@@ -450,4 +450,3 @@ if (require.main === module) {
     main();
   })();         
 }
-```
