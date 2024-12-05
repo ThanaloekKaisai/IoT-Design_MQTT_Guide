@@ -32,3 +32,5 @@
 8.ตั้งชื่่อตามต้องการจากนั้นให้กด Save
 
 ![image](https://github.com/user-attachments/assets/fff14d99-e93f-420e-af83-efccf5da05bf)
+
+!https://github.com/ThanaloekKaisai/IoT-Design_MQTT_Guide/blob/main/Hardware_Code.ino
